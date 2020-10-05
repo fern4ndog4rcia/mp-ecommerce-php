@@ -59,7 +59,7 @@ $preference->notification_url = 'http://www.blac.com.ar/notification.php';
 $preference->items = array($item);
 $preference->payer = $payer;
 
-$preference->external_reference = 'fermancha@gmail.com';
+$preference->external_reference = 'fer.mancha@gmail.com';
 
 $preference->save();
 ?>
